@@ -6,6 +6,14 @@ This is a Python application that extracts text from PDF files using Optical Cha
 
 To run the application, you'll need the following libraries and software installed:
 
+customtkinter
+
+pytesseract
+
+pdf2image
+
+Pillow
+
 ### Python Libraries
 You can install the required Python libraries using the provided `requirements.txt` file:
 
